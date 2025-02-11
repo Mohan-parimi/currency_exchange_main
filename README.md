@@ -59,5 +59,5 @@ The project uses the ExchangeRate API for fetching real-time currency exchange r
 
 ## Note
 
-The project includes fallback code for a different API, which can be used as an alternative if needed.
+The project includes fallback code for a different API, which can be used as an alternative.
 
